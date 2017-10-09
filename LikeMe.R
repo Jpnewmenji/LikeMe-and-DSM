@@ -1,7 +1,7 @@
 setwd("C:/HCL/LikeMe")
 #I have changed here
 #New change
-
+#Newmenji
 library(shiny)
 library(shinydashboard)
 library(quanteda, irlba)
